@@ -1,0 +1,40 @@
+#container{
+    width: 500px;
+    height: 260px;
+    border: red solid 1px;
+}
+
+.blue{
+    width: 200px;
+    height: 140px;
+    background-color: darkblue;
+    /* display: inline-block; */
+    position:absolute;
+    z-index: 100;
+}
+.red{
+    width: 500px;
+    height: 20px;
+    background-color: red;
+    /* display: block; */
+    /* vertical-align: top; */
+    margin-bottom: 20px;
+    /* margin-left: 140px; */
+    
+}
+
+.America{
+    color: white;
+    width: 50px;
+    padding: 10px;
+}
+
+.flagstar{
+    display: flex;
+    align-items: flex-wrap;
+}
+
+.flagstar2{
+    display: flex;
+    align-items: flex-wrap;
+}
